@@ -8,7 +8,7 @@
 
 ## 1. Contexto y Problemática Actual (AS-IS)
 
-La unidad de negocio retail **“Refugio”** actualmente gestiona la información de ventas de más de 20 locatarios mediante un flujo de trabajo extractivo y transformacional (ETL) basado en la ejecución manual de scripts locales en Python y como almacenamiento de datos BigQuery.
+La unidad de negocio retail gastronómico **“Refugio”** actualmente gestiona la información de ventas de más de 20 locatarios mediante un flujo de trabajo extractivo y transformacional (ETL) basado en la ejecución manual de scripts locales en Python y como almacenamiento de datos BigQuery.
 
 Se han identificado los siguientes cuellos de botella y riesgos operativos:
 * **Procesamiento Manual y Local:** La dependencia de ejecuciones semanales manuales genera retrasos en la disponibilidad de la información para la toma de decisiones.
